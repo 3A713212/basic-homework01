@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+printf("hello world 3A713212\n");
+system("PAUSE");
+return 0;
+}
